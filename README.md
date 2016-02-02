@@ -8,7 +8,7 @@ It is based on layout recommended by Miguel Grinberg on the
 of the [Building Web APIs with Flask](http://bit.ly/flaskapi) course.
 
 ```
-git clone https://github.com/javicacheiro/rest_api_flask
+git clone https://github.com/javicacheiro/rest_api_flask.git
 cd rest_api_flask
 virtualenv venv
 pip install -r requirements.txt
